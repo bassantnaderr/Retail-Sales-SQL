@@ -40,5 +40,8 @@ The dataset consists of the following columns:
 - **Top Product Categories**: **Beauty**, **Fashion**, and **Electronics** drive the highest revenue.
 - **Price Distribution**: Most products are priced within the **medium price range**, with high-priced items showing lower sales volume.
 
+## Limitations:
+- **Seasonal Trends**: The dataset covers only a limited time frame, and therefore, insights into seasonal sales trends could be less reliable for long-term projections.
+- **Limited Demographics Data**: The lack of detailed customer demographic information (e.g., income, occupation) makes it difficult to provide in-depth insights into customer preferences and behaviors.
 
 
